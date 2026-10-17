@@ -1,0 +1,6 @@
+/lake/sales/dt=2026-10-10
+/lake/sales/dt=2026-10-11
+/lake/sales/dt=2026-10-13
+/lake/sales/dt=2026-10-14
+/lake/sales/dt=2026-10-15
+/lake/sales/dt=2026-10-18
